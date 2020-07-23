@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url(../fonts/Roboto-Regular.ttf)
+}
+
+@import 'variables';
+@import '~bootstrap';
+@import 'header';
+
+
+
+html {
+  font-size: $root-font-size;
+  font-family: $font-family;
+  max-width: $page-width;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.photo-central {
+  background-image: url ('../images/photo_central.jpg');
+}
+
+
+p {
+  font-size: $paragraph-font-size;
+}

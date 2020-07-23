@@ -1,0 +1,29 @@
+cd 
+
+
+tab (подсказка в консоле)
+
+
+pwd (покажет текущую директорию)
+
+
+ls -la 
+
+
+bootstrap или flexbox
+
+\запустить сервак npm run start
+
+остановить сервак (как и любую другую комманду в конгсоле) ctrl + C
+
+cmd + opt + U - смотреть код в chrome
+
+ВВЕРХ / ВНИЗ - история комманд в консоли
+
+
+
+https://wrapbootstrap.com
+
+
+
+https://www.npmjs.com/b
