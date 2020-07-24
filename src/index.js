@@ -2,6 +2,7 @@
 import { HelloWorld } from './js/HelloWorld'
 import WebpackLogo from './images/webpack-logo.svg'
 import './styles/index.scss'
+import CentralPhoto from './images/5.jpg'
 
 
 
